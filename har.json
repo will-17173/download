@@ -1,0 +1,2952 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2017-03-30T07:58:02.932Z",
+        "id": "page_1",
+        "title": "https://github.com/",
+        "pageTimings": {
+          "onContentLoad": 4877.445000001899,
+          "onLoad": 6085.168000001431
+        }
+      }
+    ],
+    "entries": [
+      {
+        "startedDateTime": "2017-03-30T07:58:02.932Z",
+        "time": 1077.6580000019749,
+        "request": {
+          "method": "GET",
+          "url": "https://github.com/",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cookie",
+              "value": "_octo=GH1.1.695074525.1479347568; logged_in=yes; dotcom_user=will-17173; user_session=xFBsBQEooLa2T8M8Tyb5bXxPTAZJ9LscPhaXrdtVYrIB0y32; __Host-user_session_same_site=xFBsBQEooLa2T8M8Tyb5bXxPTAZJ9LscPhaXrdtVYrIB0y32; _gh_sess=eyJzZXNzaW9uX2lkIjoiM2NkMzgxYWZjZTYyMmEyNWYxY2E1Njc0MmZjYTFhNTUiLCJjb250ZXh0IjoiLyIsImZsYXNoIjp7ImRpc2NhcmQiOlsiYW5hbHl0aWNzX2xvY2F0aW9uIl0sImZsYXNoZXMiOnsiYW5hbHl0aWNzX2xvY2F0aW9uIjoiL2Rhc2hib2FyZCJ9fX0%3D--f4b9b423e7442b817da657a0dfaa18d1b3fb0599; _ga=GA1.2.859162209.1415609992; _gat=1; tz=Asia%2FShanghai"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            }
+          ],
+          "queryString": [],
+          "cookies": [
+            {
+              "name": "_octo",
+              "value": "GH1.1.695074525.1479347568",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "logged_in",
+              "value": "yes",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "dotcom_user",
+              "value": "will-17173",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "user_session",
+              "value": "xFBsBQEooLa2T8M8Tyb5bXxPTAZJ9LscPhaXrdtVYrIB0y32",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__Host-user_session_same_site",
+              "value": "xFBsBQEooLa2T8M8Tyb5bXxPTAZJ9LscPhaXrdtVYrIB0y32",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "_gh_sess",
+              "value": "eyJzZXNzaW9uX2lkIjoiM2NkMzgxYWZjZTYyMmEyNWYxY2E1Njc0MmZjYTFhNTUiLCJjb250ZXh0IjoiLyIsImZsYXNoIjp7ImRpc2NhcmQiOlsiYW5hbHl0aWNzX2xvY2F0aW9uIl0sImZsYXNoZXMiOnsiYW5hbHl0aWNzX2xvY2F0aW9uIjoiL2Rhc2hib2FyZCJ9fX0%3D--f4b9b423e7442b817da657a0dfaa18d1b3fb0599",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "_ga",
+              "value": "GA1.2.859162209.1415609992",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "_gat",
+              "value": "1",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "tz",
+              "value": "Asia%2FShanghai",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 991,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:10 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Status",
+              "value": "200 OK"
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000; includeSubdomains; preload"
+            },
+            {
+              "name": "Vary",
+              "value": "X-PJAX"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "Public-Key-Pins",
+              "value": "max-age=5184000; pin-sha256=\"WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=\"; pin-sha256=\"RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho=\"; pin-sha256=\"k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws=\"; pin-sha256=\"K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=\"; pin-sha256=\"IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=\"; pin-sha256=\"iie1VXtL7HzAMF+/PVPR9xzT80kQxdZeJ+zduCB3uj0=\"; pin-sha256=\"LvRiGEjRqfzurezaWuj8Wie2gyHMrW5Q06LspMnox7A=\"; includeSubDomains"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cad2d10e164548eb1d2e4354a0a3200a"
+            },
+            {
+              "name": "X-Runtime",
+              "value": "0.148402"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "24D8:1ED75:131327:1F3C7F:58DCBA92"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "deny"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html; charset=utf-8"
+            },
+            {
+              "name": "X-Request-Id",
+              "value": "e4bb7aae283743a1dca247ef38a40142"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "X-UA-Compatible",
+              "value": "IE=Edge,chrome=1"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com collector.githubapp.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com wss://live.github.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; img-src 'self' data: assets-cdn.github.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com *.githubusercontent.com; media-src 'none'; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "user_session=xFBsBQEooLa2T8M8Tyb5bXxPTAZJ9LscPhaXrdtVYrIB0y32; path=/; expires=Thu, 13 Apr 2017 07:58:10 -0000; secure; HttpOnly"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "__Host-user_session_same_site=xFBsBQEooLa2T8M8Tyb5bXxPTAZJ9LscPhaXrdtVYrIB0y32; path=/; expires=Thu, 13 Apr 2017 07:58:10 -0000; secure; HttpOnly; SameSite=Strict"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "user_session",
+              "value": "xFBsBQEooLa2T8M8Tyb5bXxPTAZJ9LscPhaXrdtVYrIB0y32",
+              "path": "/",
+              "expires": "2017-04-13T07:58:10.000Z",
+              "httpOnly": true,
+              "secure": true
+            },
+            {
+              "name": "__Host-user_session_same_site",
+              "value": "xFBsBQEooLa2T8M8Tyb5bXxPTAZJ9LscPhaXrdtVYrIB0y32",
+              "path": "/",
+              "expires": "2017-04-13T07:58:10.000Z",
+              "httpOnly": true,
+              "secure": true,
+              "sameSite": "Strict"
+            }
+          ],
+          "content": {
+            "size": 70016,
+            "mimeType": "text/html",
+            "compression": 57481
+          },
+          "redirectURL": "",
+          "headersSize": 2070,
+          "bodySize": 12535,
+          "_transferSize": 14605
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 1.89600000157952,
+          "dns": 10.19399999859158,
+          "connect": 430.9759999996459,
+          "send": 0.15799999891902416,
+          "wait": 420.887000000221,
+          "receive": 213.54700000301784,
+          "ssl": 226.979999999457
+        },
+        "serverIPAddress": "192.30.255.113",
+        "connection": "39658",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:03.824Z",
+        "time": 1389.3049999969662,
+        "request": {
+          "method": "GET",
+          "url": "https://assets-cdn.github.com/assets/frameworks-5b61aadc846f0818981ceec31b49c475fb084c163fdec5efbc2c21ef539092a9.css",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "assets-cdn.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "text/css,*/*;q=0.1"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 517,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "e93825a14bafcdecb128fc2515fa71c024b8ed23"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:11 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Age",
+              "value": "753349"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "23270"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-syd1626-SYD"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 21 Mar 2017 14:41:26 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "DB60:17F2:233C444:239BCEA:58D13BCE"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860691.557896,VS0,VE0"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/css"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 21 Mar 2018 14:42:22 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=31536000, public"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "4306"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 121557,
+            "mimeType": "text/css",
+            "compression": 98287
+          },
+          "redirectURL": "",
+          "headersSize": 653,
+          "bodySize": 23270,
+          "_transferSize": 23923
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 22.1590000001015,
+          "dns": -1,
+          "connect": 606.4459999979595,
+          "send": 0.14600000213204112,
+          "wait": 297.360999997181,
+          "receive": 463.1929999995922,
+          "ssl": 602.4729999990085
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39680",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:03.824Z",
+        "time": 1924.0199999985634,
+        "request": {
+          "method": "GET",
+          "url": "https://assets-cdn.github.com/assets/github-955409569a65b792ad8f9e5c2c57b7693225320a937d0b8ebc1ac7a6e1f288c4.css",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "assets-cdn.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "text/css,*/*;q=0.1"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 513,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "024f4a1eb01d7b7124db78e139337f05bd94868e"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:11 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Age",
+              "value": "25187"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "95292"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-syd1624-SYD"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 30 Mar 2017 00:57:47 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "088E:14FA:C7F94:CB154:58DC582F"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860691.562358,VS0,VE0"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/css"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 30 Mar 2018 00:58:24 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=31536000, public"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "5902"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 411093,
+            "mimeType": "text/css",
+            "compression": 315801
+          },
+          "redirectURL": "",
+          "headersSize": 648,
+          "bodySize": 95292,
+          "_transferSize": 95940
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 21.762000000308,
+          "dns": -1,
+          "connect": 615.4549999992009,
+          "send": 0.10900000052106407,
+          "wait": 288.6780000008,
+          "receive": 998.0159999977334,
+          "ssl": 585.0780000000669
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39675",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:06.944Z",
+        "time": 78.90299999780837,
+        "request": {
+          "method": "GET",
+          "url": "https://avatars0.githubusercontent.com/u/6138736?v=3&s=40",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "avatars0.githubusercontent.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "image/webp,image/*,*/*;q=0.8"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "v",
+              "value": "3"
+            },
+            {
+              "name": "s",
+              "value": "40"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 440,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "8d898147e29d38e2a1d78c102396b59ed7523559"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'none'"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "1"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Vary",
+              "value": "Authorization,Accept-Encoding"
+            },
+            {
+              "name": "Content-Length",
+              "value": "2448"
+            },
+            {
+              "name": "X-Xss-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-nrt6121-NRT"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 26 Jul 2010 10:13:13 GMT"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "D2DA:1B478:493933:4BFE06:58DCBA82"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860693.988915,VS0,VE0"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:13 GMT"
+            },
+            {
+              "name": "Source-Age",
+              "value": "19"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "deny"
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31557600"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=300"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 30 Mar 2017 08:03:13 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 2448,
+            "mimeType": "image/png",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 805,
+          "bodySize": 2448,
+          "_transferSize": 3253
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 1.98900000032154,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.10699999984354003,
+          "wait": 75.88899999973363,
+          "receive": 0.9179999979096607,
+          "ssl": -1
+        },
+        "serverIPAddress": "151.101.100.133",
+        "connection": "39479",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:03.882Z",
+        "time": 1303.531000001385,
+        "request": {
+          "method": "GET",
+          "url": "https://assets-cdn.github.com/assets/frameworks-5b61aadc846f0818981ceec31b49c475fb084c163fdec5efbc2c21ef539092a9.css",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "assets-cdn.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "text/css,*/*;q=0.1"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 517,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "2c3de6c368f44efc2b10a56219489f22fd4b2cc5"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:11 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Age",
+              "value": "753349"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "23270"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-syd1625-SYD"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 21 Mar 2017 14:41:26 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "DB60:17F2:233C444:239BCEA:58D13BCE"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860691.709881,VS0,VE0"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/css"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 21 Mar 2018 14:42:22 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=31536000, public"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "54435"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 121557,
+            "mimeType": "text/css",
+            "compression": 98287
+          },
+          "redirectURL": "",
+          "headersSize": 654,
+          "bodySize": 23270,
+          "_transferSize": 23924
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 134.705000000395,
+          "dns": -1,
+          "connect": 593.044999997801,
+          "send": 0.11400000221294704,
+          "wait": 292.25600000063105,
+          "receive": 283.4110000003451,
+          "ssl": 591.019000003144
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39719",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:03.883Z",
+        "time": 3712.786000000051,
+        "request": {
+          "method": "GET",
+          "url": "https://assets-cdn.github.com/assets/github-955409569a65b792ad8f9e5c2c57b7693225320a937d0b8ebc1ac7a6e1f288c4.css",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "assets-cdn.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "text/css,*/*;q=0.1"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 513,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "83f56844ae6a97f2180da08335e8710ad48e8da4"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:11 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Age",
+              "value": "25187"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "95292"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-syd1620-SYD"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 30 Mar 2017 00:57:47 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "088E:14FA:C7F94:CB154:58DC582F"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860691.868346,VS0,VE0"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/css"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 30 Mar 2018 00:58:24 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=31536000, public"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "5289"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 411093,
+            "mimeType": "text/css",
+            "compression": 315801
+          },
+          "redirectURL": "",
+          "headersSize": 648,
+          "bodySize": 95292,
+          "_transferSize": 95940
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 4.34700000187149,
+          "dns": -1,
+          "connect": 875.7760000007695,
+          "send": 0.10999999722105258,
+          "wait": 293.1230000031079,
+          "receive": 2539.429999997081,
+          "ssl": 873.0910000012955
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39693",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:07.023Z",
+        "time": 86.82100000078208,
+        "request": {
+          "method": "GET",
+          "url": "https://avatars2.githubusercontent.com/u/3930787?v=3&s=40",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "avatars2.githubusercontent.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "image/webp,image/*,*/*;q=0.8"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "v",
+              "value": "3"
+            },
+            {
+              "name": "s",
+              "value": "40"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 440,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "6f588f24e935834934db8068e8cc7b249375d892"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'none'"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "1"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Vary",
+              "value": "Authorization,Accept-Encoding"
+            },
+            {
+              "name": "Content-Length",
+              "value": "1250"
+            },
+            {
+              "name": "X-Xss-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-nrt6126-NRT"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Fri, 06 Dec 2013 15:37:48 GMT"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "D776:04F8:6DE154:721CB3:58DCBA82"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860694.073926,VS0,VE0"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:14 GMT"
+            },
+            {
+              "name": "Source-Age",
+              "value": "19"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "deny"
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31557600"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=300"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 30 Mar 2017 08:03:14 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 1250,
+            "mimeType": "image/png",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 804,
+          "bodySize": 1250,
+          "_transferSize": 2054
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 3.94600000072387,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.11900000026799029,
+          "wait": 82.31499999965304,
+          "receive": 0.4410000001371799,
+          "ssl": -1
+        },
+        "serverIPAddress": "151.101.100.133",
+        "connection": "39477",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:07.110Z",
+        "time": 83.54099999996834,
+        "request": {
+          "method": "GET",
+          "url": "https://avatars0.githubusercontent.com/u/7029473?v=3&s=40",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "avatars0.githubusercontent.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "image/webp,image/*,*/*;q=0.8"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "v",
+              "value": "3"
+            },
+            {
+              "name": "s",
+              "value": "40"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 440,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "62ffc6a8da3ea9d3405d7725b98d444b5dcf8881"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'none'"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "1"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Vary",
+              "value": "Authorization,Accept-Encoding"
+            },
+            {
+              "name": "Content-Length",
+              "value": "2746"
+            },
+            {
+              "name": "Etag",
+              "value": "\"dd2a00e859179122f4984f605203a82f43397b18\""
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-nrt6121-NRT"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 28 Apr 2014 16:35:49 GMT"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "D9AA:5BB6:16EE2B:17DB61:58DA7191"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860694.155270,VS0,VE9"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "deny"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:14 GMT"
+            },
+            {
+              "name": "Source-Age",
+              "value": "149763"
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31557600"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Xss-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=300"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 30 Mar 2017 08:03:14 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 2746,
+            "mimeType": "image/png",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 858,
+          "bodySize": 2746,
+          "_transferSize": 3604
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0.939000001380919,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.12199999764562097,
+          "wait": 81.21400000163706,
+          "receive": 1.2659999993047393,
+          "ssl": -1
+        },
+        "serverIPAddress": "151.101.100.133",
+        "connection": "39479",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:04.016Z",
+        "time": 1375.2539999986766,
+        "request": {
+          "method": "GET",
+          "url": "https://assets-cdn.github.com/assets/compat-8a4318ffea09a0cdb8214b76cf2926b9f6a0ced318a317bed419db19214c690d.js",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "assets-cdn.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 497,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "34a0f478d9c1f617fe1167110bf99c0690d6d0ff"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:12 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Age",
+              "value": "207942"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "3987"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-syd1624-SYD"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 27 Mar 2017 22:11:15 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "7556:17F3:2153519:21BD3CE:58D98E4D"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860692.203733,VS0,VE0"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "Expires",
+              "value": "Tue, 27 Mar 2018 22:12:30 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=31536000, public"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "15742"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 10019,
+            "mimeType": "application/javascript",
+            "compression": 6032
+          },
+          "redirectURL": "",
+          "headersSize": 667,
+          "bodySize": 3987,
+          "_transferSize": 4654
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0.820999997813487,
+          "dns": -1,
+          "connect": 1087.5520000008664,
+          "send": 0.13699999908999416,
+          "wait": 285.86500000165006,
+          "receive": 0.8789999992566209,
+          "ssl": 1087.3119999996566
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39698",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:05.748Z",
+        "time": 1195.041000002675,
+        "request": {
+          "method": "GET",
+          "url": "https://assets-cdn.github.com/assets/frameworks-6d109e75ad8471ba415082726c00c35fb929ceab975082492835f11eca8c07d9.js",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "assets-cdn.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 501,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "ae2b27c1e0c446edaf67f7472cbdc8c18271b013"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:12 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Age",
+              "value": "163453"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "91374"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-syd1624-SYD"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Tue, 28 Mar 2017 10:32:22 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "8BF6:2DDD3:320E1C8:32A2CCA:58DA3C17"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860692.850470,VS0,VE0"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "Expires",
+              "value": "Wed, 28 Mar 2018 10:33:59 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=31536000, public"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "15235"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 249269,
+            "mimeType": "application/javascript",
+            "compression": 157895
+          },
+          "redirectURL": "",
+          "headersSize": 669,
+          "bodySize": 91374,
+          "_transferSize": 92043
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 2.5500000010652,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.1249999986612198,
+          "wait": 287.6429999996616,
+          "receive": 904.723000003287,
+          "ssl": -1
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39675",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:07.193Z",
+        "time": 1215.039999999135,
+        "request": {
+          "method": "GET",
+          "url": "https://assets-cdn.github.com/assets/github-2620c8b04994d5d6d127189b7fc878694a6dea12c2c316fee16ee775157ebc40.js",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "assets-cdn.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 497,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Fastly-Request-ID",
+              "value": "e250268fd43246e8b6d8329c54a9a06f2a0cffff"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:14 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Age",
+              "value": "78743"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "153334"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "cache-syd1624-SYD"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 29 Mar 2017 10:04:27 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "1B00:657B:3A8A7:3B618:58DB86FE"
+            },
+            {
+              "name": "X-Timer",
+              "value": "S1490860694.298473,VS0,VE0"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "Via",
+              "value": "1.1 varnish"
+            },
+            {
+              "name": "Expires",
+              "value": "Thu, 29 Mar 2018 10:05:50 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=31536000, public"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "X-Cache-Hits",
+              "value": "8869"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 515654,
+            "mimeType": "application/javascript",
+            "compression": 362320
+          },
+          "redirectURL": "",
+          "headersSize": 663,
+          "bodySize": 153334,
+          "_transferSize": 153997
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 4.0499999995518,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.17400000069755972,
+          "wait": 251.89099999988662,
+          "receive": 958.924999998999,
+          "ssl": -1
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39675",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:08.546Z",
+        "time": 455.9030000018538,
+        "request": {
+          "method": "GET",
+          "url": "https://collector.githubapp.com/github/page_view?dimensions[page]=https%3A%2F%2Fgithub.com%2F&dimensions[title]=GitHub&dimensions[referrer]=&dimensions[user_agent]=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F57.0.2987.133%20Safari%2F537.36&dimensions[screen_resolution]=1920x1080&dimensions[pixel_ratio]=1&dimensions[browser_resolution]=1115x940&dimensions[tz_seconds]=28800&dimensions[timestamp]=1490860688537&dimensions[request_id]=24D8%3A1ED75%3A131327%3A1F3C7F%3A58DCBA92&&measures[performance_timing]=1-448-17--4805-4804-4804-889-17-7-1---0---448-1082-869-221-879-879&&dimensions[actor_id]=6138736&dimensions[actor_login]=will-17173&dimensions[actor_hash]=dcbd52471918231e9843fda43b76dd3e50e972f65f19e5c15de037719cb77213&dimensions[cid]=695074525.1479347568",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "collector.githubapp.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "image/webp,image/*,*/*;q=0.8"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "dimensions[page]",
+              "value": "https%3A%2F%2Fgithub.com%2F"
+            },
+            {
+              "name": "dimensions[title]",
+              "value": "GitHub"
+            },
+            {
+              "name": "dimensions[referrer]",
+              "value": ""
+            },
+            {
+              "name": "dimensions[user_agent]",
+              "value": "Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F57.0.2987.133%20Safari%2F537.36"
+            },
+            {
+              "name": "dimensions[screen_resolution]",
+              "value": "1920x1080"
+            },
+            {
+              "name": "dimensions[pixel_ratio]",
+              "value": "1"
+            },
+            {
+              "name": "dimensions[browser_resolution]",
+              "value": "1115x940"
+            },
+            {
+              "name": "dimensions[tz_seconds]",
+              "value": "28800"
+            },
+            {
+              "name": "dimensions[timestamp]",
+              "value": "1490860688537"
+            },
+            {
+              "name": "dimensions[request_id]",
+              "value": "24D8%3A1ED75%3A131327%3A1F3C7F%3A58DCBA92"
+            },
+            {
+              "name": "",
+              "value": ""
+            },
+            {
+              "name": "measures[performance_timing]",
+              "value": "1-448-17--4805-4804-4804-889-17-7-1---0---448-1082-869-221-879-879"
+            },
+            {
+              "name": "",
+              "value": ""
+            },
+            {
+              "name": "dimensions[actor_id]",
+              "value": "6138736"
+            },
+            {
+              "name": "dimensions[actor_login]",
+              "value": "will-17173"
+            },
+            {
+              "name": "dimensions[actor_hash]",
+              "value": "dcbd52471918231e9843fda43b76dd3e50e972f65f19e5c15de037719cb77213"
+            },
+            {
+              "name": "dimensions[cid]",
+              "value": "695074525.1479347568"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 1211,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:15 GMT"
+            },
+            {
+              "name": "X-Rack-Cache",
+              "value": "miss"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 30 Mar 2017 07:58:15 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/gif; charset=utf-8"
+            },
+            {
+              "name": "Status",
+              "value": "200 OK"
+            },
+            {
+              "name": "Expires",
+              "value": "Sat, 25 Nov 2000 05:00:00 GMT"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, private"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "X-Runtime",
+              "value": "0.012167"
+            },
+            {
+              "name": "Content-Length",
+              "value": "35"
+            },
+            {
+              "name": "X-Request-Id",
+              "value": "b95a587e4df043dfc6c869a382afaa24"
+            },
+            {
+              "name": "X-UA-Compatible",
+              "value": "IE=Edge,chrome=1"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 35,
+            "mimeType": "image/gif",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 510,
+          "bodySize": 35,
+          "_transferSize": 545
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 1.32300000041141,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.1349999984086001,
+          "wait": 454.110000002402,
+          "receive": 0.33500000063179414,
+          "ssl": -1
+        },
+        "serverIPAddress": "52.21.139.92",
+        "connection": "39480",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:08.570Z",
+        "time": 105.65300000234856,
+        "request": {
+          "method": "POST",
+          "url": "https://www.google-analytics.com/collect",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/plain;charset=UTF-8"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 250,
+          "postData": {
+            "mimeType": "text/plain;charset=UTF-8",
+            "text": "v=1&_v=j48&a=1755377367&t=pageview&_s=1&dl=https%3A%2F%2Fgithub.com%2Fdashboard&ul=zh-cn&de=UTF-8&dt=GitHub&sd=24-bit&sr=1920x1080&vp=1098x940&je=0&fl=25.0%20r0&_u=SCCAAEABM~&jid=&cid=859162209.1415609992&tid=UA-3769691-2&cd1=Logged%20In&z=1332139811"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "date",
+              "value": "Thu, 30 Mar 2017 07:58:15 GMT"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "last-modified",
+              "value": "Sun, 17 May 1998 03:00:00 GMT"
+            },
+            {
+              "name": "server",
+              "value": "Golfe2"
+            },
+            {
+              "name": "status",
+              "value": "200"
+            },
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache, no-store, must-revalidate"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "alt-svc",
+              "value": "quic=\":443\"; ma=2592000; v=\"37,36,35\""
+            },
+            {
+              "name": "content-length",
+              "value": "35"
+            },
+            {
+              "name": "expires",
+              "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "image/gif"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 80,
+          "_error": ""
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0.864000001456589,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.22800000078860094,
+          "wait": 103.98999999961282,
+          "receive": 0.5710000004905567,
+          "ssl": -1
+        },
+        "serverIPAddress": "203.208.39.195",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:08.604Z",
+        "time": 106.7430000002787,
+        "request": {
+          "method": "POST",
+          "url": "https://www.google-analytics.com/collect",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/plain;charset=UTF-8"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 291,
+          "postData": {
+            "mimeType": "text/plain;charset=UTF-8",
+            "text": "v=1&_v=j48&a=1755377367&t=event&ni=1&_s=2&dl=https%3A%2F%2Fgithub.com%2Fdashboard&ul=zh-cn&de=UTF-8&dt=GitHub&sd=24-bit&sr=1920x1080&vp=1098x940&je=0&fl=25.0%20r0&ec=Dashboard&ea=view&el=context%3Auser&_u=SCCAAEABM~&jid=&cid=859162209.1415609992&tid=UA-3769691-2&cd1=Logged%20In&z=2120346385"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "date",
+              "value": "Thu, 30 Mar 2017 07:58:15 GMT"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "last-modified",
+              "value": "Sun, 17 May 1998 03:00:00 GMT"
+            },
+            {
+              "name": "server",
+              "value": "Golfe2"
+            },
+            {
+              "name": "status",
+              "value": "200"
+            },
+            {
+              "name": "content-type",
+              "value": "image/gif"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache, no-store, must-revalidate"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "alt-svc",
+              "value": "quic=\":443\"; ma=2592000; v=\"37,36,35\""
+            },
+            {
+              "name": "content-length",
+              "value": "35"
+            },
+            {
+              "name": "expires",
+              "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "image/gif"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 57,
+          "_error": ""
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 3.57799999983399,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.20900000163238008,
+          "wait": 102.36799999984264,
+          "receive": 0.5879999989696927,
+          "ssl": -1
+        },
+        "serverIPAddress": "203.208.39.195",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:08.605Z",
+        "time": 461.7020000005141,
+        "request": {
+          "method": "POST",
+          "url": "https://collector.githubapp.com/collect",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Host",
+              "value": "collector.githubapp.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/x-www-form-urlencoded"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "max-age=0"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "291"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 491,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Runtime",
+              "value": "0.002574"
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:15 GMT"
+            },
+            {
+              "name": "X-Rack-Cache",
+              "value": "invalidate, pass"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000"
+            },
+            {
+              "name": "Access-Control-Allow-Methods",
+              "value": "POST, OPTIONS"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/vnd.github-octolytics+json; charset=utf-8"
+            },
+            {
+              "name": "Status",
+              "value": "200 OK"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "0"
+            },
+            {
+              "name": "X-Request-Id",
+              "value": "5616e8272b1bf9f5e70933716e31d5a3"
+            },
+            {
+              "name": "X-UA-Compatible",
+              "value": "IE=Edge,chrome=1"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "application/vnd.github-octolytics+json",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 487,
+          "bodySize": 0,
+          "_transferSize": 487,
+          "_error": ""
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 3.31100000039442,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.20199999926262002,
+          "wait": 457.494000002043,
+          "receive": 0.6949999988140689,
+          "ssl": -1
+        },
+        "serverIPAddress": "52.21.139.92",
+        "connection": "39500",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:09.087Z",
+        "time": 942.6739999980782,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://api.github.com/_private/browser/stats",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch, br"
+            },
+            {
+              "name": "Host",
+              "value": "api.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 518,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 204,
+          "statusText": "No Content",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:16 GMT"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "Status",
+              "value": "204 No Content"
+            },
+            {
+              "name": "Access-Control-Max-Age",
+              "value": "86400"
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000; includeSubdomains; preload"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "Public-Key-Pins",
+              "value": "max-age=5184000; pin-sha256=\"WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=\"; pin-sha256=\"RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho=\"; pin-sha256=\"k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws=\"; pin-sha256=\"K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=\"; pin-sha256=\"IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=\"; pin-sha256=\"iie1VXtL7HzAMF+/PVPR9xzT80kQxdZeJ+zduCB3uj0=\"; pin-sha256=\"LvRiGEjRqfzurezaWuj8Wie2gyHMrW5Q06LspMnox7A=\"; includeSubDomains"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "10ea50bffaded85949561216def301f3"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "C5F4:5884:DF9C7D:11D990C:58DCBA98"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "deny"
+            },
+            {
+              "name": "Access-Control-Allow-Methods",
+              "value": "GET, POST, PATCH, PUT, DELETE"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Access-Control-Expose-Headers",
+              "value": "ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com collector.githubapp.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; img-src 'self' data: assets-cdn.github.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com collector.githubapp.com avatars0.githubusercontent.com avatars1.githubusercontent.com avatars2.githubusercontent.com avatars3.githubusercontent.com github-cloud.s3.amazonaws.com; media-src 'none'; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com"
+            },
+            {
+              "name": "Access-Control-Allow-Headers",
+              "value": "Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Accept-Encoding, X-GitHub-OTP, X-Requested-With"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "text/plain",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 2116,
+          "bodySize": 0,
+          "_transferSize": 2116
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 1.47799999831477,
+          "dns": -1,
+          "connect": 625.5120000023452,
+          "send": 0.09399999908100654,
+          "wait": 315.081000000646,
+          "receive": 0.5089999976912623,
+          "ssl": 622.7390000021845
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39774",
+        "pageref": "page_1"
+      },
+      {
+        "startedDateTime": "2017-03-30T07:58:10.031Z",
+        "time": 454.4069999974454,
+        "request": {
+          "method": "POST",
+          "url": "https://api.github.com/_private/browser/stats",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Origin",
+              "value": "https://github.com"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Host",
+              "value": "api.github.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://github.com/"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "8436"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 480,
+          "bodySize": 8436,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "[{\"requestId\":\"24D8:1ED75:131327:1F3C7F:58DCBA92\"},{\"browserfeatures\":{\"classlist_multi_arg\":true,\"classlist\":true,\"closest\":true,\"custom_elements\":true,\"custom_event\":true,\"emoji_ios\":0,\"fetch\":true,\"matches\":true,\"performance_getentries\":true,\"performance_mark\":true,\"performance_now\":true,\"promise\":true,\"send_beacon\":true,\"string_ends_with\":true,\"string_starts_with\":true,\"timezone\":true,\"url\":true,\"url_search_params\":true,\"weakmap\":true}},{\"timing\":{\"crossBrowserLoadEvent\":1490860689037,\"navigationStart\":1490860682927,\"unloadEventStart\":1490860683806,\"unloadEventEnd\":1490860683806,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":1490860682928,\"domainLookupStart\":1490860682934,\"domainLookupEnd\":1490860682944,\"connectStart\":1490860682944,\"connectEnd\":1490860683375,\"secureConnectionStart\":1490860683148,\"requestStart\":1490860683375,\"responseStart\":1490860683796,\"responseEnd\":1490860684009,\"domLoading\":1490860683816,\"domInteractive\":1490860687731,\"domContentLoadedEventStart\":1490860687731,\"domContentLoadedEventEnd\":1490860687732,\"domComplete\":1490860689003,\"loadEventStart\":1490860689003,\"loadEventEnd\":1490860689017,\"chromeFirstPaintTime\":1490860687860}},{\"resources\":[{\"initiatorType\":\"link\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":891.4300000000001,\"domainLookupStart\":891.4300000000001,\"domainLookupEnd\":891.4300000000001,\"connectStart\":919.2750000000001,\"connectEnd\":1525.515,\"secureConnectionStart\":923.0250000000001,\"requestStart\":1525.7200000000003,\"responseStart\":1823.2250000000001,\"responseEnd\":2286.42,\"transferSize\":23923,\"encodedBodySize\":23270,\"decodedBodySize\":121557,\"name\":\"https://assets-cdn.github.com/assets/frameworks-5b61aadc846f0818981ceec31b49c475fb084c163fdec5efbc2c21ef539092a9.css\",\"entryType\":\"resource\",\"startTime\":891.4300000000001,\"duration\":1394.99},{\"initiatorType\":\"link\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":891.5050000000001,\"domainLookupStart\":891.5050000000001,\"domainLookupEnd\":891.5050000000001,\"connectStart\":919.2300000000001,\"connectEnd\":1534.525,\"secureConnectionStart\":949.4350000000001,\"requestStart\":1534.6850000000002,\"responseStart\":1823.4700000000003,\"responseEnd\":2821.485,\"transferSize\":95940,\"encodedBodySize\":95292,\"decodedBodySize\":411093,\"name\":\"https://assets-cdn.github.com/assets/github-955409569a65b792ad8f9e5c2c57b7693225320a937d0b8ebc1ac7a6e1f288c4.css\",\"entryType\":\"resource\",\"startTime\":891.5050000000001,\"duration\":1929.98},{\"initiatorType\":\"img\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":891.5750000000002,\"domainLookupStart\":891.5750000000002,\"domainLookupEnd\":891.5750000000002,\"connectStart\":891.5750000000002,\"connectEnd\":891.5750000000002,\"secureConnectionStart\":0,\"requestStart\":4018.8450000000007,\"responseStart\":4094.8400000000006,\"responseEnd\":4095.76,\"transferSize\":3253,\"encodedBodySize\":2448,\"decodedBodySize\":2448,\"name\":\"https://avatars0.githubusercontent.com/u/6138736?v=3&s=40\",\"entryType\":\"resource\",\"startTime\":891.5750000000002,\"duration\":3204.185},{\"initiatorType\":\"link\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":955.3100000000001,\"domainLookupStart\":955.3100000000001,\"domainLookupEnd\":955.3100000000001,\"connectStart\":1090.4250000000002,\"connectEnd\":1683.2800000000002,\"secureConnectionStart\":1092.2450000000001,\"requestStart\":1683.4700000000003,\"responseStart\":1975.8400000000004,\"responseEnd\":2259.255,\"transferSize\":23924,\"encodedBodySize\":23270,\"decodedBodySize\":121557,\"name\":\"https://assets-cdn.github.com/assets/frameworks-5b61aadc846f0818981ceec31b49c475fb084c163fdec5efbc2c21ef539092a9.css\",\"entryType\":\"resource\",\"startTime\":955.3100000000001,\"duration\":1303.9450000000002},{\"initiatorType\":\"link\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":955.46,\"domainLookupStart\":955.46,\"domainLookupEnd\":955.46,\"connectStart\":960.4050000000001,\"connectEnd\":1836.045,\"secureConnectionStart\":962.9400000000002,\"requestStart\":1836.1850000000002,\"responseStart\":2129.4150000000004,\"responseEnd\":4668.845,\"transferSize\":95940,\"encodedBodySize\":95292,\"decodedBodySize\":411093,\"name\":\"https://assets-cdn.github.com/assets/github-955409569a65b792ad8f9e5c2c57b7693225320a937d0b8ebc1ac7a6e1f288c4.css\",\"entryType\":\"resource\",\"startTime\":955.46,\"duration\":3713.385},{\"initiatorType\":\"img\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":1082.465,\"domainLookupStart\":1082.465,\"domainLookupEnd\":1082.465,\"connectStart\":1082.465,\"connectEnd\":1082.465,\"secureConnectionStart\":0,\"requestStart\":4099.860000000001,\"responseStart\":4182.295000000001,\"responseEnd\":4182.735,\"transferSize\":2054,\"encodedBodySize\":1250,\"decodedBodySize\":1250,\"name\":\"https://avatars2.githubusercontent.com/u/3930787?v=3&s=40\",\"entryType\":\"resource\",\"startTime\":1082.465,\"duration\":3100.2699999999995},{\"initiatorType\":\"img\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":1082.6100000000001,\"domainLookupStart\":1082.6100000000001,\"domainLookupEnd\":1082.6100000000001,\"connectStart\":1082.6100000000001,\"connectEnd\":1082.6100000000001,\"secureConnectionStart\":0,\"requestStart\":4183.780000000001,\"responseStart\":4265.120000000001,\"responseEnd\":4266.385,\"transferSize\":3604,\"encodedBodySize\":2746,\"decodedBodySize\":2746,\"name\":\"https://avatars0.githubusercontent.com/u/7029473?v=3&s=40\",\"entryType\":\"resource\",\"startTime\":1082.6100000000001,\"duration\":3183.775},{\"initiatorType\":\"script\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":1086.705,\"domainLookupStart\":1086.705,\"domainLookupEnd\":1086.705,\"connectStart\":1090.1750000000002,\"connectEnd\":2177.5,\"secureConnectionStart\":1090.1750000000002,\"requestStart\":2177.725,\"responseStart\":2463.7300000000005,\"responseEnd\":2464.605,\"transferSize\":4654,\"encodedBodySize\":3987,\"decodedBodySize\":10019,\"name\":\"https://assets-cdn.github.com/assets/compat-8a4318ffea09a0cdb8214b76cf2926b9f6a0ced318a317bed419db19214c690d.js\",\"entryType\":\"resource\",\"startTime\":1086.705,\"duration\":1377.9},{\"initiatorType\":\"script\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":1086.8500000000001,\"domainLookupStart\":1086.8500000000001,\"domainLookupEnd\":1086.8500000000001,\"connectStart\":1086.8500000000001,\"connectEnd\":1086.8500000000001,\"secureConnectionStart\":0,\"requestStart\":2824.2200000000003,\"responseStart\":3111.985,\"responseEnd\":4016.7100000000005,\"transferSize\":92043,\"encodedBodySize\":91374,\"decodedBodySize\":249269,\"name\":\"https://assets-cdn.github.com/assets/frameworks-6d109e75ad8471ba415082726c00c35fb929ceab975082492835f11eca8c07d9.js\",\"entryType\":\"resource\",\"startTime\":1086.8500000000001,\"duration\":2929.8600000000006},{\"initiatorType\":\"script\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":1086.9850000000001,\"domainLookupStart\":1086.9850000000001,\"domainLookupEnd\":1086.9850000000001,\"connectStart\":1086.9850000000001,\"connectEnd\":1086.9850000000001,\"secureConnectionStart\":0,\"requestStart\":4270.425,\"responseStart\":4522.490000000001,\"responseEnd\":5481.415,\"transferSize\":153997,\"encodedBodySize\":153334,\"decodedBodySize\":515654,\"name\":\"https://assets-cdn.github.com/assets/github-2620c8b04994d5d6d127189b7fc878694a6dea12c2c316fee16ee775157ebc40.js\",\"entryType\":\"resource\",\"startTime\":1086.9850000000001,\"duration\":4394.43},{\"initiatorType\":\"img\",\"workerStart\":0,\"redirectStart\":0,\"redirectEnd\":0,\"fetchStart\":5619.34,\"domainLookupStart\":0,\"domainLookupEnd\":0,\"connectStart\":0,\"connectEnd\":0,\"secureConnectionStart\":0,\"requestStart\":0,\"responseStart\":0,\"responseEnd\":6075.635,\"transferSize\":0,\"encodedBodySize\":0,\"decodedBodySize\":0,\"name\":\"https://collector.githubapp.com/github/page_view?dimensions[page]=https%3A%2F%2Fgithub.com%2F&dimensions[title]=GitHub&dimensions[referrer]=&dimensions[user_agent]=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F57.0.2987.133%20Safari%2F537.36&dimensions[screen_resolution]=1920x1080&dimensions[pixel_ratio]=1&dimensions[browser_resolution]=1115x940&dimensions[tz_seconds]=28800&dimensions[timestamp]=1490860688537&dimensions[request_id]=24D8%3A1ED75%3A131327%3A1F3C7F%3A58DCBA92&&measures[performance_timing]=1-448-17--4805-4804-4804-889-17-7-1---0---448-1082-869-221-879-879&&dimensions[actor_id]=6138736&dimensions[actor_login]=will-17173&dimensions[actor_hash]=dcbd52471918231e9843fda43b76dd3e50e972f65f19e5c15de037719cb77213&dimensions[cid]=695074525.1479347568\",\"entryType\":\"resource\",\"startTime\":5619.34,\"duration\":456.2950000000001}]}]"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Thu, 30 Mar 2017 07:58:17 GMT"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-GitHub-Media-Type",
+              "value": "github.v3; format=json"
+            },
+            {
+              "name": "Status",
+              "value": "200 OK"
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000; includeSubdomains; preload"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Content-Length",
+              "value": "5"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "X-Served-By",
+              "value": "4537b68c46a1b65b106078b0a2578ee2"
+            },
+            {
+              "name": "Server",
+              "value": "GitHub.com"
+            },
+            {
+              "name": "X-GitHub-Request-Id",
+              "value": "C5F4:5884:DF9CB2:11D9910:58DCBA98"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "deny"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json; charset=utf-8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Access-Control-Expose-Headers",
+              "value": "ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'none'"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 5,
+            "mimeType": "application/json",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 769,
+          "bodySize": 5,
+          "_transferSize": 774
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0.912999999854947,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.16999999934341314,
+          "wait": 452.9529999999796,
+          "receive": 0.3709999982673935,
+          "ssl": -1
+        },
+        "serverIPAddress": "127.0.0.1",
+        "connection": "39774",
+        "pageref": "page_1"
+      }
+    ]
+  }
+}

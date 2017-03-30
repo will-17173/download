@@ -1,0 +1,8 @@
+{
+  "name": "download",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "download": "^5.0.3"
+  }
+}
